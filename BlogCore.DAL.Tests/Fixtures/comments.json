@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Id": 1,
+    "Content": "Great post!",
+    "Author": "Alice",
+    "PostId": 1
+  },
+  {
+    "Id": 2,
+    "Content": "I found this very helpful.",
+    "Author": "Bob",
+    "PostId": 1
+  },
+  {
+    "Id": 3,
+    "Content": "Looking forward to more content.",
+    "Author": "Charlie",
+    "PostId": 1
+  }
+]

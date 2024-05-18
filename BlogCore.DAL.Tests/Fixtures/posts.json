@@ -1,0 +1,12 @@
+﻿[
+    {
+        "Id": 1,
+        "Content": "This is the content of the first post.",
+        "Author": "John Doe"
+    },
+    {
+        "Id": 2,
+        "Content": "This is the content of the second post.",
+        "Author": "Jane Smith"
+    }
+]
