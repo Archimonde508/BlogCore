@@ -61,6 +61,9 @@ namespace Blog.DAL.Tests
 
             // assert
             Assert.AreEqual(2, result.Count());
+
+            // to test if pipeline fails
+            Assert.IsTrue(false);
         }
 
         [TestMethod]

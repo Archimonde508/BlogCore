@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lapto\\OneDrive\\Desktop\\proj\\BlogCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B1E877D-0EF4-4D27-9EFA-211100037DB3}|BlogCore.DAL\\BlogCore.DAL.csproj|c:\\users\\lapto\\onedrive\\desktop\\proj\\blogcore\\blogcore.dal\\blogcore.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B1E877D-0EF4-4D27-9EFA-211100037DB3}|BlogCore.DAL\\BlogCore.DAL.csproj|solutionrelative:blogcore.dal\\blogcore.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C22BC8D-B1A3-47A6-B9AF-E0E860192D13}|BlogCore.DAL.Tests\\BlogCore.DAL.Tests.csproj|c:\\users\\lapto\\onedrive\\desktop\\proj\\blogcore\\blogcore.dal.tests\\repositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C22BC8D-B1A3-47A6-B9AF-E0E860192D13}|BlogCore.DAL.Tests\\BlogCore.DAL.Tests.csproj|solutionrelative:blogcore.dal.tests\\repositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BlogCore.DAL",
+              "DocumentMoniker": "C:\\Users\\lapto\\OneDrive\\Desktop\\proj\\BlogCore\\BlogCore.DAL\\BlogCore.DAL.csproj",
+              "RelativeDocumentMoniker": "BlogCore.DAL\\BlogCore.DAL.csproj",
+              "ToolTip": "C:\\Users\\lapto\\OneDrive\\Desktop\\proj\\BlogCore\\BlogCore.DAL\\BlogCore.DAL.csproj",
+              "RelativeToolTip": "BlogCore.DAL\\BlogCore.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T12:04:00.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RepositoryTests.cs",
               "DocumentMoniker": "C:\\Users\\lapto\\OneDrive\\Desktop\\proj\\BlogCore\\BlogCore.DAL.Tests\\RepositoryTests.cs",
               "RelativeDocumentMoniker": "BlogCore.DAL.Tests\\RepositoryTests.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BlogRepository.cs",
               "DocumentMoniker": "C:\\Users\\lapto\\OneDrive\\Desktop\\proj\\BlogCore\\BlogCore.DAL\\Repository\\BlogRepository.cs",
               "RelativeDocumentMoniker": "BlogCore.DAL\\Repository\\BlogRepository.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\lapto\\OneDrive\\Desktop\\proj\\BlogCore\\BlogCore.DAL\\Model\\Comment.cs",
               "RelativeDocumentMoniker": "BlogCore.DAL\\Model\\Comment.cs",
